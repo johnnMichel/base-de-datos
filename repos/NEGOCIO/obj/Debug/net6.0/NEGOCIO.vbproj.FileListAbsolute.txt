@@ -1,0 +1,120 @@
+C:\Users\Admin\source\repos\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.deps.json
+C:\Users\Admin\source\repos\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.dll
+C:\Users\Admin\source\repos\repos\NEGOCIO\bin\Debug\net6.0\ref\NEGOCIO.dll
+C:\Users\Admin\source\repos\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.pdb
+C:\Users\Admin\source\repos\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.dll
+C:\Users\Admin\source\repos\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.pdb
+C:\Users\Admin\source\repos\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfo.vb
+C:\Users\Admin\source\repos\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CopyComplete
+C:\Users\Admin\source\repos\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.dll
+C:\Users\Admin\source\repos\repos\NEGOCIO\obj\Debug\net6.0\ref\NEGOCIO.dll
+C:\Users\Admin\source\repos\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.pdb
+F:\Programacion2\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.deps.json
+F:\Programacion2\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.dll
+F:\Programacion2\repos\NEGOCIO\bin\Debug\net6.0\ref\NEGOCIO.dll
+F:\Programacion2\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.pdb
+F:\Programacion2\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.dll
+F:\Programacion2\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.pdb
+F:\Programacion2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.AssemblyReference.cache
+F:\Programacion2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfoInputs.cache
+F:\Programacion2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfo.vb
+F:\Programacion2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CoreCompileInputs.cache
+F:\Programacion2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CopyComplete
+F:\Programacion2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.dll
+F:\Programacion2\repos\NEGOCIO\obj\Debug\net6.0\ref\NEGOCIO.dll
+F:\Programacion2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.pdb
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.deps.json
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.dll
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.pdb
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.dll
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.pdb
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.AssemblyReference.cache
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfoInputs.cache
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfo.vb
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CoreCompileInputs.cache
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.Up2Date
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.dll
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\refint\NEGOCIO.dll
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.pdb
+F:\Programacion2\VisualStudio2022Projects\repos\NEGOCIO\obj\Debug\net6.0\ref\NEGOCIO.dll
+C:\Users\Admin\Desktop\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.deps.json
+C:\Users\Admin\Desktop\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.dll
+C:\Users\Admin\Desktop\repos\NEGOCIO\bin\Debug\net6.0\ref\NEGOCIO.dll
+C:\Users\Admin\Desktop\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.pdb
+C:\Users\Admin\Desktop\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.dll
+C:\Users\Admin\Desktop\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.pdb
+C:\Users\Admin\Desktop\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfo.vb
+C:\Users\Admin\Desktop\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CopyComplete
+C:\Users\Admin\Desktop\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.dll
+C:\Users\Admin\Desktop\repos\NEGOCIO\obj\Debug\net6.0\ref\NEGOCIO.dll
+C:\Users\Admin\Desktop\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.pdb
+D:\dota 2\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.deps.json
+D:\dota 2\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.dll
+D:\dota 2\repos\NEGOCIO\bin\Debug\net6.0\ref\NEGOCIO.dll
+D:\dota 2\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.pdb
+D:\dota 2\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.dll
+D:\dota 2\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.pdb
+D:\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.AssemblyReference.cache
+D:\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfoInputs.cache
+D:\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfo.vb
+D:\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CoreCompileInputs.cache
+D:\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CopyComplete
+D:\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.dll
+D:\dota 2\repos\NEGOCIO\obj\Debug\net6.0\ref\NEGOCIO.dll
+D:\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.pdb
+D:\dota 2\dota 2\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.deps.json
+D:\dota 2\dota 2\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.dll
+D:\dota 2\dota 2\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.pdb
+D:\dota 2\dota 2\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.dll
+D:\dota 2\dota 2\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.pdb
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.AssemblyReference.cache
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfoInputs.cache
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfo.vb
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CoreCompileInputs.cache
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.Up2Date
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.dll
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\refint\NEGOCIO.dll
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.pdb
+D:\dota 2\dota 2\repos\NEGOCIO\obj\Debug\net6.0\ref\NEGOCIO.dll
+D:\dota 1\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.deps.json
+D:\dota 1\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.dll
+D:\dota 1\repos\NEGOCIO\bin\Debug\net6.0\ref\NEGOCIO.dll
+D:\dota 1\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.pdb
+D:\dota 1\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.dll
+D:\dota 1\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.pdb
+D:\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.AssemblyReference.cache
+D:\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfoInputs.cache
+D:\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfo.vb
+D:\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CoreCompileInputs.cache
+D:\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CopyComplete
+D:\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.dll
+D:\dota 1\repos\NEGOCIO\obj\Debug\net6.0\ref\NEGOCIO.dll
+D:\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.pdb
+D:\dota 2\dota 1\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.deps.json
+D:\dota 2\dota 1\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.dll
+D:\dota 2\dota 1\repos\NEGOCIO\bin\Debug\net6.0\NEGOCIO.pdb
+D:\dota 2\dota 1\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.dll
+D:\dota 2\dota 1\repos\NEGOCIO\bin\Debug\net6.0\CONEXION.pdb
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.AssemblyReference.cache
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfoInputs.cache
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.AssemblyInfo.vb
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.CoreCompileInputs.cache
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.vbproj.Up2Date
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.dll
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\refint\NEGOCIO.dll
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\NEGOCIO.pdb
+D:\dota 2\dota 1\repos\NEGOCIO\obj\Debug\net6.0\ref\NEGOCIO.dll

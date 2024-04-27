@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|d:\\dota 2\\dota 1\\repos\\sistemaferreteria\\iucompra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|solutionrelative:iucompra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\iucompra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|solutionrelative:iucompra.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\iucompra.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|solutionrelative:iucompra.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\iucategoria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|solutionrelative:iucategoria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071AD4B8-0F8A-4C82-B064-6638E881226E}|..\\CONEXION\\CONEXION.vbproj|d:\\dota 2\\dota 1\\repos\\conexion\\dac.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\iucategoria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|solutionrelative:iucategoria.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\iubase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|solutionrelative:iubase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\iubase.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|solutionrelative:iubase.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\iuproducto.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{04E2373A-B5B8-432F-9072-8B4617911247}|SistemaFerreteria.vbproj|solutionrelative:iuproducto.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DAC.vb",
+              "DocumentMoniker": "D:\\dota 2\\dota 1\\repos\\CONEXION\\DAC.vb",
+              "RelativeDocumentMoniker": "..\\CONEXION\\DAC.vb",
+              "ToolTip": "D:\\dota 2\\dota 1\\repos\\CONEXION\\DAC.vb",
+              "RelativeToolTip": "..\\CONEXION\\DAC.vb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T15:05:38.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUCompra.Designer.vb",
+              "DocumentMoniker": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCompra.Designer.vb",
+              "RelativeDocumentMoniker": "IUCompra.Designer.vb",
+              "ToolTip": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCompra.Designer.vb",
+              "RelativeToolTip": "IUCompra.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T20:29:20.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUCategoria.vb",
+              "DocumentMoniker": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCategoria.vb",
+              "RelativeDocumentMoniker": "IUCategoria.vb",
+              "ToolTip": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCategoria.vb",
+              "RelativeToolTip": "IUCategoria.vb",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAuwPwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T20:13:32.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUCategoria.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCategoria.vb",
+              "RelativeDocumentMoniker": "IUCategoria.vb",
+              "ToolTip": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCategoria.vb [Dise\u00F1o]",
+              "RelativeToolTip": "IUCategoria.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T20:10:39.947Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUCompra.vb",
+              "DocumentMoniker": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCompra.vb",
+              "RelativeDocumentMoniker": "IUCompra.vb",
+              "ToolTip": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCompra.vb",
+              "RelativeToolTip": "IUCompra.vb",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAAwPAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T14:47:39.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUCompra.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCompra.vb",
+              "RelativeDocumentMoniker": "IUCompra.vb",
+              "ToolTip": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUCompra.vb [Dise\u00F1o]",
+              "RelativeToolTip": "IUCompra.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T14:16:24.861Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUBase.Designer.vb",
+              "DocumentMoniker": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUBase.Designer.vb",
+              "RelativeDocumentMoniker": "IUBase.Designer.vb",
+              "ToolTip": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUBase.Designer.vb",
+              "RelativeToolTip": "IUBase.Designer.vb",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAKsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T17:11:10.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUBase.vb [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUBase.vb",
+              "RelativeDocumentMoniker": "IUBase.vb",
+              "ToolTip": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUBase.vb [Dise\u00F1o]",
+              "RelativeToolTip": "IUBase.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T18:19:51.701Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUProducto.Designer.vb",
+              "DocumentMoniker": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUProducto.Designer.vb",
+              "RelativeDocumentMoniker": "IUProducto.Designer.vb",
+              "ToolTip": "D:\\dota 2\\dota 1\\repos\\SistemaFerreteria\\IUProducto.Designer.vb",
+              "RelativeToolTip": "IUProducto.Designer.vb",
+              "ViewState": "AQIAAKgBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T18:56:07.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

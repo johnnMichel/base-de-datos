@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\CONEXION\bin\Debug\net8.0\CONEXION.deps.json
+C:\Users\Admin\source\repos\CONEXION\bin\Debug\net8.0\CONEXION.dll
+C:\Users\Admin\source\repos\CONEXION\bin\Debug\net8.0\CONEXION.pdb
+C:\Users\Admin\source\repos\CONEXION\obj\Debug\net8.0\CONEXION.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CONEXION\obj\Debug\net8.0\CONEXION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CONEXION\obj\Debug\net8.0\CONEXION.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CONEXION\obj\Debug\net8.0\CONEXION.AssemblyInfo.vb
+C:\Users\Admin\source\repos\CONEXION\obj\Debug\net8.0\CONEXION.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CONEXION\obj\Debug\net8.0\CONEXION.dll
+C:\Users\Admin\source\repos\CONEXION\obj\Debug\net8.0\refint\CONEXION.dll
+C:\Users\Admin\source\repos\CONEXION\obj\Debug\net8.0\CONEXION.pdb
+C:\Users\Admin\source\repos\CONEXION\obj\Debug\net8.0\ref\CONEXION.dll

@@ -1,0 +1,94 @@
+C:\Users\Admin\source\repos\repos\CONEXION\obj\Debug\net6.0\CONEXION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfo.vb
+C:\Users\Admin\source\repos\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\repos\CONEXION\bin\Debug\net6.0\CONEXION.deps.json
+C:\Users\Admin\source\repos\repos\CONEXION\bin\Debug\net6.0\CONEXION.dll
+C:\Users\Admin\source\repos\repos\CONEXION\bin\Debug\net6.0\ref\CONEXION.dll
+C:\Users\Admin\source\repos\repos\CONEXION\bin\Debug\net6.0\CONEXION.pdb
+C:\Users\Admin\source\repos\repos\CONEXION\obj\Debug\net6.0\CONEXION.dll
+C:\Users\Admin\source\repos\repos\CONEXION\obj\Debug\net6.0\ref\CONEXION.dll
+C:\Users\Admin\source\repos\repos\CONEXION\obj\Debug\net6.0\CONEXION.pdb
+C:\Users\Admin\source\repos\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.AssemblyReference.cache
+F:\Programacion2\repos\CONEXION\bin\Debug\net6.0\CONEXION.deps.json
+F:\Programacion2\repos\CONEXION\bin\Debug\net6.0\CONEXION.dll
+F:\Programacion2\repos\CONEXION\bin\Debug\net6.0\ref\CONEXION.dll
+F:\Programacion2\repos\CONEXION\bin\Debug\net6.0\CONEXION.pdb
+F:\Programacion2\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.AssemblyReference.cache
+F:\Programacion2\repos\CONEXION\obj\Debug\net6.0\CONEXION.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion2\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfoInputs.cache
+F:\Programacion2\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfo.vb
+F:\Programacion2\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.CoreCompileInputs.cache
+F:\Programacion2\repos\CONEXION\obj\Debug\net6.0\CONEXION.dll
+F:\Programacion2\repos\CONEXION\obj\Debug\net6.0\ref\CONEXION.dll
+F:\Programacion2\repos\CONEXION\obj\Debug\net6.0\CONEXION.pdb
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\bin\Debug\net6.0\CONEXION.deps.json
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\bin\Debug\net6.0\CONEXION.dll
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\bin\Debug\net6.0\CONEXION.pdb
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.AssemblyReference.cache
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\obj\Debug\net6.0\CONEXION.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfoInputs.cache
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfo.vb
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.CoreCompileInputs.cache
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\obj\Debug\net6.0\CONEXION.dll
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\obj\Debug\net6.0\refint\CONEXION.dll
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\obj\Debug\net6.0\CONEXION.pdb
+F:\Programacion2\VisualStudio2022Projects\repos\CONEXION\obj\Debug\net6.0\ref\CONEXION.dll
+C:\Users\Admin\Desktop\repos\CONEXION\bin\Debug\net6.0\CONEXION.deps.json
+C:\Users\Admin\Desktop\repos\CONEXION\bin\Debug\net6.0\CONEXION.dll
+C:\Users\Admin\Desktop\repos\CONEXION\bin\Debug\net6.0\ref\CONEXION.dll
+C:\Users\Admin\Desktop\repos\CONEXION\bin\Debug\net6.0\CONEXION.pdb
+C:\Users\Admin\Desktop\repos\CONEXION\obj\Debug\net6.0\CONEXION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfo.vb
+C:\Users\Admin\Desktop\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\CONEXION\obj\Debug\net6.0\CONEXION.dll
+C:\Users\Admin\Desktop\repos\CONEXION\obj\Debug\net6.0\ref\CONEXION.dll
+C:\Users\Admin\Desktop\repos\CONEXION\obj\Debug\net6.0\CONEXION.pdb
+D:\dota 2\repos\CONEXION\bin\Debug\net6.0\CONEXION.deps.json
+D:\dota 2\repos\CONEXION\bin\Debug\net6.0\CONEXION.dll
+D:\dota 2\repos\CONEXION\bin\Debug\net6.0\ref\CONEXION.dll
+D:\dota 2\repos\CONEXION\bin\Debug\net6.0\CONEXION.pdb
+D:\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.AssemblyReference.cache
+D:\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.GeneratedMSBuildEditorConfig.editorconfig
+D:\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfoInputs.cache
+D:\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfo.vb
+D:\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.CoreCompileInputs.cache
+D:\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.dll
+D:\dota 2\repos\CONEXION\obj\Debug\net6.0\ref\CONEXION.dll
+D:\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.pdb
+D:\dota 2\dota 2\repos\CONEXION\bin\Debug\net6.0\CONEXION.deps.json
+D:\dota 2\dota 2\repos\CONEXION\bin\Debug\net6.0\CONEXION.dll
+D:\dota 2\dota 2\repos\CONEXION\bin\Debug\net6.0\CONEXION.pdb
+D:\dota 2\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.AssemblyReference.cache
+D:\dota 2\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.GeneratedMSBuildEditorConfig.editorconfig
+D:\dota 2\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfoInputs.cache
+D:\dota 2\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfo.vb
+D:\dota 2\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.CoreCompileInputs.cache
+D:\dota 2\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.dll
+D:\dota 2\dota 2\repos\CONEXION\obj\Debug\net6.0\refint\CONEXION.dll
+D:\dota 2\dota 2\repos\CONEXION\obj\Debug\net6.0\CONEXION.pdb
+D:\dota 2\dota 2\repos\CONEXION\obj\Debug\net6.0\ref\CONEXION.dll
+D:\dota 1\repos\CONEXION\bin\Debug\net6.0\CONEXION.deps.json
+D:\dota 1\repos\CONEXION\bin\Debug\net6.0\CONEXION.dll
+D:\dota 1\repos\CONEXION\bin\Debug\net6.0\ref\CONEXION.dll
+D:\dota 1\repos\CONEXION\bin\Debug\net6.0\CONEXION.pdb
+D:\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.GeneratedMSBuildEditorConfig.editorconfig
+D:\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfoInputs.cache
+D:\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfo.vb
+D:\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.CoreCompileInputs.cache
+D:\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.dll
+D:\dota 1\repos\CONEXION\obj\Debug\net6.0\ref\CONEXION.dll
+D:\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.pdb
+D:\dota 2\dota 1\repos\CONEXION\bin\Debug\net6.0\CONEXION.deps.json
+D:\dota 2\dota 1\repos\CONEXION\bin\Debug\net6.0\CONEXION.dll
+D:\dota 2\dota 1\repos\CONEXION\bin\Debug\net6.0\CONEXION.pdb
+D:\dota 2\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.AssemblyReference.cache
+D:\dota 2\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.GeneratedMSBuildEditorConfig.editorconfig
+D:\dota 2\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfoInputs.cache
+D:\dota 2\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.AssemblyInfo.vb
+D:\dota 2\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.vbproj.CoreCompileInputs.cache
+D:\dota 2\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.dll
+D:\dota 2\dota 1\repos\CONEXION\obj\Debug\net6.0\refint\CONEXION.dll
+D:\dota 2\dota 1\repos\CONEXION\obj\Debug\net6.0\CONEXION.pdb
+D:\dota 2\dota 1\repos\CONEXION\obj\Debug\net6.0\ref\CONEXION.dll

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "04e2373a-b5b8-432f-9072-8b4617911247": {
+      "ProjectGuid": "04e2373a-b5b8-432f-9072-8b4617911247",
+      "DisplayName": "SistemaFerreteria",
+      "ColorIndex": 0
+    },
+    "071ad4b8-0f8a-4c82-b064-6638e881226e": {
+      "ProjectGuid": "071ad4b8-0f8a-4c82-b064-6638e881226e",
+      "DisplayName": "CONEXION",
+      "ColorIndex": 1
+    },
+    "8040892d-ec71-4025-83c3-a3bcb222ae2a": {
+      "ProjectGuid": "8040892d-ec71-4025-83c3-a3bcb222ae2a",
+      "DisplayName": "NEGOCIO",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
